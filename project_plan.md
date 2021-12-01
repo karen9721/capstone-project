@@ -28,3 +28,13 @@ Key points of the project document
 5. Bibliography with the sources used.
 6. Upload on FASER, before the deadline, a PDF file of the project document.
 (Scanned hand-written notes or Scanned PDF files are not accepted)
+
+Main headings:
+- Good teaching practice
+- Different teaching methods
+- Teaching styles
+- Presentation 
+- Pedagogy - profession of teaching
+- 
+
+good knowledge with literature
