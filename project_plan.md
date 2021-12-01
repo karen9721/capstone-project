@@ -43,3 +43,16 @@ Main headings:
 - make a spider diagram of your research, and then branch out to find more references, and bring your own opinions from the branches and primary research and then reference back.
 -  AKA do primary research, reference, review their primary research (which is your secondary research), and then reference both primary and secondary research (their primary, your secondary).
 -  can refer first to the primary research you've done, and then refer to their findings from who they cited
+
+
+Plan
+- Abstract (500 words roughly), brief rationale (meaning behind) why are you doing the study, method (explain audience, age, whatever, like experiment), results (data findings), discussions (conclusions, explain what the findings mean in context, how is it applied to the research project), limitations (what would you do to improve, or further research)
+- Introduction
+- Literature Review (background research)
+  - General intro (teaching maths)
+  - Different teaching styles (engagement activities 
+  - Teaching style of giving lectures)
+  - Teaching screen (online vs face to face)
+  - Teaching methods (worksheets, hands-on interactive activities, looking on the screen, etc)
+  - Specific chosen method and style (DS is a blog potentially, and Maths is a presentation)
+  - How to make presentation flexible to suit different age groups and audiences.
