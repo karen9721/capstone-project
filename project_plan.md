@@ -39,4 +39,5 @@ Main headings:
 - referenced through theory, 
 - finding and using other peoples academic research to reference back in my project (and look through their citations, and who has cited their journal, so that you can refer back in your own project)
 
-good knowledge with literature
+- good knowledge with literature
+- make a spider diagram of your research, and then branch out to find more references.
