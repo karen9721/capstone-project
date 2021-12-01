@@ -54,6 +54,7 @@ Plan
   - Teaching style of giving lectures)
   - Teaching screen (online vs face to face)
   - Teaching methods (worksheets, hands-on interactive activities, looking on the screen, etc)
+  - Specific way the style and method interact with each other
   - Specific chosen method and style (DS is a blog potentially, and Maths is a presentation)
   - How to make presentation flexible to suit different age groups and audiences.
   - 
