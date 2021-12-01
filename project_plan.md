@@ -35,6 +35,8 @@ Main headings:
 - Teaching styles
 - Presentation 
 - Pedagogy - profession of teaching
-- 
+- general points being made
+- referenced through theory, 
+- finding and using other peoples academic research to reference back in my project (and look through their citations, and who has cited their journal, so that you can refer back in your own project)
 
 good knowledge with literature
