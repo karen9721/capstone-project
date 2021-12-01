@@ -40,4 +40,6 @@ Main headings:
 - finding and using other peoples academic research to reference back in my project (and look through their citations, and who has cited their journal, so that you can refer back in your own project)
 
 - good knowledge with literature
-- make a spider diagram of your research, and then branch out to find more references.
+- make a spider diagram of your research, and then branch out to find more references, and bring your own opinions from the branches and primary research and then reference back.
+-  AKA do primary research, reference, review their primary research (which is your secondary research), and then reference both primary and secondary research (their primary, your secondary).
+-  can refer first to the primary research you've done, and then refer to their findings from who they cited
