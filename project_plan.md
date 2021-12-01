@@ -56,3 +56,4 @@ Plan
   - Teaching methods (worksheets, hands-on interactive activities, looking on the screen, etc)
   - Specific chosen method and style (DS is a blog potentially, and Maths is a presentation)
   - How to make presentation flexible to suit different age groups and audiences.
+  - 
