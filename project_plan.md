@@ -19,3 +19,12 @@ Date: 29/11/21
 - Conclusion
 - Bibliography 
 - Appendix
+
+Key points of the project document
+1. Title page: Name, number, module, title, supervisor, date.
+2. Contents page.
+3. Numbered pages (and sections).
+4. Summary of work and sources (usually within the introduction).
+5. Bibliography with the sources used.
+6. Upload on FASER, before the deadline, a PDF file of the project document.
+(Scanned hand-written notes or Scanned PDF files are not accepted)
