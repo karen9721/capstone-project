@@ -1,8 +1,8 @@
 # Notes from the book
-### Note: not all notes are here as it is just for understanding and useful resources
+Note: not all notes are here as it is just for understanding and useful resources
 
-Title: Main Aims of Project
-Date: 11/10/21
+## Title: Main Aims of Project
+## Date: 11/10/21
 1. To be able to access, use and link together various resources appropriately
 2. To understand how mathematics can be used in a specific area.
 3. To learn to think critically and creatively from a mathematical perspective.
@@ -33,3 +33,54 @@ Checklist
 - Make bibliography
 - Statstical background
 - Comparison of methods
+
+Resources
+YouTube:
+- Numberphile
+- Computerphile
+- RI
+
+Maths:
+- Adam Woodhouse
+- British Origami Society
+
+Write up examples, why one is more interesting than the other one
+Keep everything
+Get rid of less important things
+*need to understand*
+- for introducing -> narrow on one thing
+- consider it as first part of the series
+- fulfil the data science part
+
+Math in Motion - explain why we did background work
+
+For mathematics, elaborate presentation, flexible to audience, complicated maths, things + tailor + flexible, have looked into origami maths.
+
+Resources:
+Google:
+- Hannah Fry
+- Marcus Du Foy
+- Chris Saker
+- Inaugural Professor lectures
+- TedX 
+- Look at some videos - watch them teachign
+- Look at some non-maths
+- Make notes
+
+Podcasts:
+- Monkey Cage
+- Hannah Fry
+- Look at blog posts 
+    - different audience
+    - different styles
+
+Intro + Conclusion
+- abstract, intro, conclusion
+
+Resources:
+- Gresham Public Lectures
+- London Maths Society Public Lecture
+- Royal London Christmas Lectures
+
+In order to research pedagogy, considering engagement talks + activities, National Curriculum, academic journal. 
+
