@@ -1,8 +1,7 @@
 # Notes from the book
-Note: not all notes are here as it is just for understanding and useful resources
+> Note: not all notes are here as it is just for understanding and useful resources
 
-## Title: Main Aims of Project
-## Date: 11/10/21
+## Main Aims of Project - 11/10/21
 1. To be able to access, use and link together various resources appropriately
 2. To understand how mathematics can be used in a specific area.
 3. To learn to think critically and creatively from a mathematical perspective.
@@ -13,9 +12,9 @@ Note: not all notes are here as it is just for understanding and useful resource
 Topics:
 - Origami Maths
 - Music and Maths
+---
 
-Title: Parts of the Capstone
-Date: 12/10/21
+## Parts of the Capstone - 12/10/21
 
 1. Pedagogy
 2. Maths Presentation
