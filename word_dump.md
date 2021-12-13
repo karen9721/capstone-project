@@ -18,8 +18,44 @@ These tend to have more content shown and delivered but depending on what the to
 
 Webinars are not always as easy to do as some may talk faster and go through slides faster without knowing if the audience understood what they were talking about. Due to this, it is more difficult to deliver sessions online as many people may not turn their cameras on, which would lose the factor of face-to-face teaching, or delivery. Without their cameras, speakers can find it difficult to know if the audience are finding them (the speaker) talking too fast, or too slow, whether things need to be repeated. In addition, related to lectures, it can become difficult to speak up to ask questions. 
 
+3. 
+
 talks, masterclasses, webinars, seminars, summer schools and workshops
+#### 2019
+Essex Mathematical Sciences Summer School 2019
+- R-Courses 
+    - Introduction to R(I)
+    - Introduction to R(II)
+    - Advanced data visualisation techniques using R
+- Basic Data Science Skills for Industry
+    - Lab based lectures
+    - Lab hands-on sessions
+- Workshop: Predictive data science impact in the digital industry
+
+- Maths and Stats clinic 
+    - bring your work and get help and advice with and maths/stats issue that's bothering you
+
+- Differentiation - Applications
+    - Workshop looking at how to use the derivative to determine the maximum and minimum values of particular functions
+    - 28 Oct 2019
+    - Was interesting, engaging, had provided worksheets for us to understand
+    - Aimed for undergraduates/postgrads, but understood that some may not fully understand these concepts
+    - Was mostly other science students, biological, medical, psychology, so where they still used differentiation but had more of a literature background
+
+- Differentiation - Rules
+    - Workshop looking at concept of a derivatire, and how a derivative can be used to describe the rate of change of one quantity with respect to another. We will review the rules of differentiation to compute the derivatives of different types of functions and solve some standard problems.
+    - 28 Oct 2019
+    - Also provided worksheets
+    - See above
+
+- Normal Distribution
+    - Workshop understanding propoerties for normal distributions
+    - 17 Feb 2020
+    - Worksheets were also provided
+
+
+
+
 
 talk about youtube videos, academic journals, other academic journals
-
 
