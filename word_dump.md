@@ -20,3 +20,6 @@ Webinars are not always as easy to do as some may talk faster and go through sli
 
 talks, masterclasses, webinars, seminars, summer schools and workshops
 
+talk about youtube videos, academic journals, other academic journals
+
+
