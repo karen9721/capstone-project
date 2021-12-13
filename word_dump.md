@@ -53,7 +53,10 @@ Essex Mathematical Sciences Summer School 2019
     - 17 Feb 2020
     - Worksheets were also provided
 
-
+- Create a plan to ace your maths/stats course
+    - Workshop covers practical strategies to manage your anxieties and createa a learning plan to succeed in your quantitative modules. Jointly delivered by an Inclusive Learning Advisor and a Maths tutor
+    - 10 Nov 2020
+    
 
 
 
