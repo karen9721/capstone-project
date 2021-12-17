@@ -18,6 +18,6 @@ Bibliography
 
 [9] https://towardsdatascience.com/real-time-speech-recognition-python-assemblyai-13d35eeed226  
 
-[10]  
+[10] https://www.tandfonline.com/doi/full/10.1080/00405841.2016.1173994?casa_token=I799SSmMYkQAAAAA%3A3eUSYn14flvn7_gS_E0iaiQulYabzoj-h9pCvcQwa7datcN2L2SkEVv8pY6g4piIyCQCXQZDDfpt
 
 [11]  

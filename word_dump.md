@@ -80,3 +80,4 @@ YouTube videos wise:
     - had one where it was interactive
     - did not use so much jargon, so audience understands (of different age groups)
 
+As for academic journals, it is important to be adaptive in teaching STEM subjects and that we learn to be more flexible as it can be difficult to keep STEM subjects engaging. There are also a lot 
