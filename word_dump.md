@@ -57,8 +57,26 @@ Essex Mathematical Sciences Summer School 2019
     - Workshop covers practical strategies to manage your anxieties and createa a learning plan to succeed in your quantitative modules. Jointly delivered by an Inclusive Learning Advisor and a Maths tutor
     - 10 Nov 2020
     
-
-
-
 talk about youtube videos, academic journals, other academic journals
+
+YouTube videos wise:
+- Inaugural lectures
+    - tend to be more informative
+    - content heavy
+    - can be more serious 
+
+- Gresham College Lectures
+    - tend to be fun 
+    - still informative but directed to higher age groups
+    - therefore, easier spoken language
+
+- Christmas lectures 
+    - fun, engaging
+    - audience to all age groups
+    - easier spoken language
+
+- Hannah Fry
+    - informative, fun, engaging
+    - had one where it was interactive
+    - did not use so much jargon, so audience understands (of different age groups)
 
