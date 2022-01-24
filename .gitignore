@@ -1,1 +1,4 @@
 *.swp
+
+# MacOS file
+*.DS_Store
