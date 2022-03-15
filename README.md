@@ -7,3 +7,6 @@ References vs Bibliography
 - References: Alphabetical list of sources cited in the project.
 - Bibliography: All the sources consulted in preparation of the project, including the cited sources in References.
 
+### Checklist
+- Introduction
+- 

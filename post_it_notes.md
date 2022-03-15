@@ -2,7 +2,7 @@
 Date:11/03/21
 
 ## What I need to attach in Faser
-- Handout can be done individually/groups/large groups -> need to think about what I want to do 
+- Handout can be done individually/groups/large groups -> need to think about what I want to do
 - Handouts = learn by doing
 - Comment on this and link back to the background research
 
@@ -14,8 +14,8 @@ Date:11/03/21
 - Why engagement talks are helpful at start
 - Conclusion of why I did origami
 
-- general lesson plan 
-- make and finish content of slides for 11 th march 
+- general lesson plan
+- make and finish content of slides for 11 th march
 - annotation
 
 - creative commons
@@ -37,11 +37,11 @@ Date:11/03/21
 - originally chinese
 - what is euclid -> geometry; axioms ->rule of a game, so everything can be derived from the rules
 - decolonising euclid -> most well known, well preserved in terms theory
-- to the above point, there were other people who did geometry before 
+- to the above point, there were other people who did geometry before
 
 - Euclid blank paper -> static
 - rule and compass
-- you can get these rules for geometry 
+- you can get these rules for geometry
 - e.g. circular theorem, congruents, etc
 - example is triangle angles inside add up to 180 using euclid axioms
 
@@ -65,7 +65,7 @@ Date:11/03/21
 - quick question
 - worksheet
 
-- e.g. label pythagoras theorem on a triangle 
+- e.g. label pythagoras theorem on a triangle
 
 - assume we provide origami paper
 - proof by origami
@@ -96,7 +96,7 @@ Date:11/03/21
  - pythagoras theorem -> what is it
  - note: if someone was to do the lesson, what do they need so in the details of the note it should say here
  - e.g. print page of handout
- - e.g. decolonising -> not focusing on western world, e.g. from oriental 
+ - e.g. decolonising -> not focusing on western world, e.g. from oriental
  - have in write up too
 4. 5 minute video
  - self reflection video
@@ -106,7 +106,7 @@ Date:11/03/21
  - pythagoras theorem -> what is it
  - note: if someone was to do the lesson, what do they need so in the details of the note it should say here
  - e.g. print page of handout
- - e.g. decolonising -> not focusing on western world, e.g. from oriental 
+ - e.g. decolonising -> not focusing on western world, e.g. from oriental
  - have in write up too
 4. 5 minute video
  - self reflection video
@@ -116,12 +116,8 @@ Date:11/03/21
  - pythagoras theorem -> what is it
  - note: if someone was to do the lesson, what do they need so in the details of the note it should say here
  - e.g. print page of handout
- - e.g. decolonising -> not focusing on western world, e.g. from oriental 
+ - e.g. decolonising -> not focusing on western world, e.g. from oriental
  - have in write up too
 4. 5 minute video
  - self reflection video
  - good and the bad
-
-
-
-
