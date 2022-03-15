@@ -8,5 +8,16 @@ References vs Bibliography
 - Bibliography: All the sources consulted in preparation of the project, including the cited sources in References.
 
 ### Checklist
+- Contents Page
+- Abstract
 - Introduction
-- 
+- Researching Pedagogy
+  - General intro (teaching maths)
+  - Different teaching styles 
+  - Good teaching practice
+  - Teaching styles
+  - Chosen Teaching Style
+- Project Findings
+- Conclusion
+- Bibliography
+- Appendix
