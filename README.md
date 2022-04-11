@@ -21,3 +21,6 @@ References vs Bibliography
 - Conclusion
 - Bibliography
 - Appendix
+
+Find research that considered different teaching methods vs. modern vs. normal lectures vs. public engagements
+Literature search for good blog post practice/pedagogy
