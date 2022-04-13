@@ -7,3 +7,7 @@
 *.fls
 *.log
 *.gz
+*.lot
+*.lof
+*.out
+*.toc

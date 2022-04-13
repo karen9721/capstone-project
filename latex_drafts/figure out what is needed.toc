@@ -1,0 +1,36 @@
+\contentsline {chapter}{\numberline {1}Acknowledgements}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Project Overview}{6}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Abstract}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Introduction}{8}{chapter.4}%
+\contentsline {chapter}{\numberline {5}The national curriculum}{10}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Overview}{10}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Key Stage 3 (KS3)}{10}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Key Stage 4 (KS4)}{11}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Key Stage 5 (KS5)}{11}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Literature Review}{12}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Researching Pedagogy}{12}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Good teaching practice}{12}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Different teaching methods}{12}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Presentation}{12}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Pedagogy - profession of teaching}{12}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Communicating Mathematics}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Preparation of communication}{13}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Making a presentation}{13}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Realisation of other things to prepare}{13}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Practice communication}{13}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Reflections}{14}{section.7.5}%
+\contentsline {chapter}{\numberline {8}Communicating Data Science}{15}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Form of communication}{15}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Understand how to present a blog post}{15}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Preparation of a blog post}{15}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Making the blog post}{15}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Reflections}{15}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Project Findings}{16}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Conclusions}{17}{chapter.10}%
+\contentsline {chapter}{\numberline {A}Appendix}{18}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Detailed Handover}{18}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Lesson Plan}{18}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Handout sheets}{18}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Presentation}{18}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Presentation video}{18}{section.A.5}%
+\contentsline {chapter}{\numberline {B}Another Appendix}{19}{appendix.B}%
