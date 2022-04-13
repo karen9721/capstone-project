@@ -2,3 +2,8 @@
 
 # MacOS file
 *.DS_Store
+*.yaml
+*.aux
+*.fls
+*.log
+*.gz
