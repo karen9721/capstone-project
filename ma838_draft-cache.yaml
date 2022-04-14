@@ -130,7 +130,7 @@ files:
       $PATH: '"C:\Program Files\MiKTeX\miktex\bin\x64"'
     type: ParsedYAML
   ma838_draft.tex:
-    timeStamp: 2022-04-13T21:09:00.955Z
+    timeStamp: 2022-04-14T05:07:54.894Z
     jobNames: []
     hash: FagrLOvTqyXHfgIFTZ86cb2OQ/DC/N9R18ui8E9Mxuk=
     type: LaTeX
@@ -367,28 +367,28 @@ files:
       calls: []
     type: ParsedLaTeXLog
   ma838_draft.aux:
-    timeStamp: 2022-04-13T21:09:01.935Z
+    timeStamp: 2022-04-14T05:07:55.475Z
     jobNames: []
     hash: W6Dx97DLcTGDeBwf987KWxzDwY1AytrslQ1cyTe8TOY=
     type: LaTeXAuxilary
   ma838_draft.fls:
-    timeStamp: 2022-04-13T21:09:02.032Z
+    timeStamp: 2022-04-14T05:07:55.596Z
     jobNames: []
     hash: ZzoN7TqPpSX0IxumqgJcbIonmgSDPdb82ZexBvmjvRU=
     type: FileListing
   ma838_draft.log:
-    timeStamp: 2022-04-13T21:09:01.981Z
+    timeStamp: 2022-04-14T05:07:55.538Z
     jobNames: []
     hash: STnUC4XjvFK+7L0kc0jjrdVU9zcB4d01rWHP2NRMmBE=
     type: LaTeXLog
     subType: pdfTeX
   ma838_draft.synctex.gz:
-    timeStamp: 2022-04-13T21:09:01.977Z
+    timeStamp: 2022-04-14T05:07:55.533Z
     jobNames: []
     hash: jccgo+NgyWmUBjlLafQFZZRvsbQX3Rb1TGXPoqWSwtk=
     type: SyncTeX
   ma838_draft.pdf:
-    timeStamp: 2022-04-13T21:09:01.970Z
+    timeStamp: 2022-04-14T05:07:55.518Z
     jobNames: []
     hash: rqwl+h8Ck0Vrg3A8FShb05Ah+NXljtz/SdjNIm8w9M0=
     type: PortableDocumentFormat
@@ -478,7 +478,7 @@ files:
     timeStamp: 2022-04-13T19:58:56.967Z
     jobNames: []
   'C:\Users\ky17716\AppData\Local\MiKTeX\pdftex\config\pdftex.map':
-    timeStamp: 2022-04-13T20:09:37.476Z
+    timeStamp: 2022-04-13T21:20:06.526Z
     jobNames: []
 rules:
   - name: ApplyOptions
